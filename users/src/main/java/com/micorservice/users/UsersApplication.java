@@ -3,6 +3,7 @@ package com.micorservice.users;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+
 @SpringBootApplication
 public class UsersApplication {
 
@@ -10,4 +11,6 @@ public class UsersApplication {
 		SpringApplication.run(UsersApplication.class, args);
 	}
 
-}
+
+	}
+
